@@ -1,0 +1,10 @@
+{
+    "id": "git-analysis",
+    "name": "Git Analysis",
+    "version": "0.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Git-анализ хранилища Obsidian",
+    "author": "Sovinka20 (Ekaterina German) <2015gev@gmail.com>",
+    "isDesktopOnly": true,
+	"css": "styles.css"
+}
